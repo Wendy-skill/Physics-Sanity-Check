@@ -6,6 +6,7 @@ description: >
   for heat transfer, particle transport and structural simulation. Uses cautious,
   evidence-based reasoning and never treats a plausible mechanism as proven without support.
 version: 1.0
+  中文触发：物理合理性、机制检查、流动趋势核验；English triggers: physics sanity check, plausibility of mechanisms.
 ---
 
 # Physics Sanity Check
@@ -289,3 +290,7 @@ Do not:
 - assume visual smoothness means correctness
 - treat textbook intuition as direct evidence
 - overrule validated numerical results without concrete reason
+
+## Optional v3 research-group interface
+
+This Skill remains standalone. For genuine cross-Skill work only, read `references/research-group-interop-v3.md`. Own **Physics plausibility, dimensionless checks and competing mechanisms**; do not take over **Proving causality or scientific mechanisms from plausible trend alone**. Confirm actual specialist availability, carry source/version into the handoff, keep one root-issue owner and avoid a duplicate full review.
